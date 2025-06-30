@@ -36,7 +36,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo habilidades para me tornar dev e designer UX.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas no IFRN.
-- 🌱 Aprendendo mais sobre python, assembly e javascript.
+- 🌱 Aprendendo mais sobre python, assembly, javascript e figma.
 
 ## Minhas Skills
 
