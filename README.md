@@ -1,5 +1,5 @@
 # README.md
-## Olá, meu nome é Ana Clara, também conhecida como Sol!☀️
+## Olá, meu nome é Sol!☀️
 
 ### ⚙️ GitHub Analytics
 
